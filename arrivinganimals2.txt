@@ -1,0 +1,5 @@
+Lion, 5, leo Panthera
+Elephant, 10, africana Loxodonta
+Giraffe, 6, camelopardalis Giraffa
+Zebra, 4, quagga Equus
+Tiger, 3, tigris Panthera
