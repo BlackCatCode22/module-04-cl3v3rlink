@@ -1,0 +1,2 @@
+
+I chose this format because it was the simplest route I could take. Using commas to separate the name, age, and species provides clarity for each piece of information. Additionally, using the split method divides the parts of the program, making it straightforward. It also establishes a consistent structure for each line. Overall, this format strikes a balance between simplicity and clarity, making it easy for anyone trying to retrieve, work with, and understand the animal data.
